@@ -1,5 +1,5 @@
 
-<h2> I'm Joe!</h2>
+<h2> Hi, I'm Joe!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
