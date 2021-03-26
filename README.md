@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and building scalable web applications.
 - 🎓 &nbsp; Studying Full Stack Web Development and Computer Science at Lambda School.
-- 💼 &nbsp; Working as a Web Developer for Family Promise.
+- 💼 &nbsp; Working as a contracted Web Developer for Family Promise.
 - 📚 &nbsp; Learning more about PostgresSQL and AWS.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
