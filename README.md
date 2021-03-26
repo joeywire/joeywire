@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and building scalable web applications.
 - 🎓 &nbsp; Studying Full Stack Web Development and Computer Science at Lambda School.
 - 💼 &nbsp; Working as a Web Developer for Family Promise.
 - 📚 &nbsp; Learning more about PostgresSQL and AWS.
